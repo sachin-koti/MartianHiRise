@@ -33,7 +33,8 @@ Image tiles are organized into folders of ‘background’ and ‘frost’ class
 
 4. ## Plotted the training and validation errors vs. epochs (Please look out for them in the notebooks attached)
 5. ## Reported the Precision, Recall, and F1 score for all the model ((Please look out for them in the notebooks attached)
-6. ## Final Conclusion
+6. ## Final Conclusion at the end of the notebook.
 
 
+Note:
 the part1 notebook file contains CNN+MLP model and the transfer learning using EfficientNetB0 model. the part2 notebook file contains the transfer learning using ResNet50 and VGG16 models.

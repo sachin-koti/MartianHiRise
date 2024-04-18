@@ -1,4 +1,4 @@
-# Identification of Frost in Martian HiRISE Images1:
+# Identification of Frost in Martian HiRISE Images:
 
 This project is completed using Keras and Python.
 
